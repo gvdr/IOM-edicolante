@@ -1,9 +1,13 @@
 [deps]
 CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
 Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
+HTTP = "cd3eb016-35fb-5094-929b-558a96fad6f3"
+IOM_Collector = "bdf42eb1-85ec-4052-9919-edfefbcacadc"
 JSON3 = "0f8b85d8-7281-11e9-16c2-39a750bddbf1"
 JobSchedulers = "eeff360b-c02d-44d3-ab26-4013c616a17e"
 LibPQ = "194296ae-ab2e-5f79-8cd4-7183a0a5a0d1"
+MakeWebJSON = "b8c3da20-68e7-4c44-b027-8b22a1b9608c"
 Pipelines = "ef544631-5c6f-4e9b-994c-12e7a4cd724c"
 Revise = "295af30f-e4ad-537b-8983-00126c2a3abe"
 Telegram = "1da6f4ae-116c-4c38-8ee9-19974ff3601d"
+WritePostgres = "59f707cc-cce7-40fd-9617-9e0c6ce07bf2"
